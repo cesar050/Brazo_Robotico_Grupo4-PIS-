@@ -2,7 +2,7 @@ Diagrama UML
 HOTFIX(CORRECCIÓN)
 ![image](https://github.com/cesar050/Brazo_Robotico_Grupo4-PIS-/assets/166522713/9ab08244-dc33-41c3-a54f-4188c3acfa40)
 
-
+DIAGRAMA ANTERIOR
 ![WhatsApp Image 2024-05-09 at 22 18 27](https://github.com/cesar050/Brazo_Robotico_Grupo4-PIS-/assets/166523455/77d65e3e-1382-4748-8252-396104ff9e8d)
 
 
